@@ -1,0 +1,114 @@
+
+{
+  "name": "ᴀɴɪᴇ x ᴇɪᴄᴀ ᴍᴜꜱɪᴄ ʙᴏᴛ",
+  "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
+  "logo": "https://telegra.ph/file/b37803a767b15e939513d.png",
+  "keywords": [
+  "python3",
+  "telegram",
+  "bot",
+  "ᴀɴɪᴇ",
+  "MusicBot",
+  "telegram-bot",
+  "pyrogram"
+  ],
+  "env": {
+    "API_ID": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": "22317880",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": "5e341628f7176989bcffb2b8fc22445f",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "A Bot's token from Botfather",
+      "value": "7913305235:AAG_ee32FXN5yqwAH74zcUdq-XUnefGP_H4",
+      "required": true
+    },
+    "MONGO_DB_URI": {
+      "description": "Get a mongodb url from https://cloud.mongodb.com.",
+      "value": "mongodb+srv://musicbotxd:musicbotxd@cluster0.6thyk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+      "required": true
+    },
+    "OWNER_ID": {
+      "description": "The user id of user whom you would like to add as OWNER.from @Sophia_x_MusicBot on Telegram.",
+      "value": "6018803920",
+      "required": true
+    },
+   "SUPPORT_CHANNEL": {
+      "description": "Add channel link",
+      "value": "https://t.me/MBT_UPDATES",
+      "required": true
+    },
+      "SUPPORT_CHAT": {
+      "description": "Add Chat group & support group Link",
+      "value": "https://t.me/+EK-lvu4shmBkNmZl",
+      "required": true
+    },
+    "STRING_SESSION": {
+      "description": "A Pyrogram String Session from @Sessoin_String_gen_BOT on Telegram.",
+      "value": "BAFUizgAhmo99RhQr_NxjtRUn25XZQKU1PEh1Jf3lYhN3nA2Pd-BplowpZWJDdYGbSW5B9sk3cGwwZm55UNgdyRG_0gsoDtwxwSSOr_i0JlqOguvYwKrfD3ALFMQhR34F30ZxrYBuZFMESx_ekMvPeFp5XxO9EoBuRYliHvMVqFVjwWnmE5ON3bsbG2P3kKN_trOZrmg5bw5QhUVVIZ4RbHhc7MzK9Zuse31TbckT4vPInEA_rOH-cec61A47EdP0N3pjZlhUPEFgyUrky3wgLc9XdZFGq9kyc6c66VIYlcLSQKvSTRF_LArOmvjUa1H1XEh3udbS4nyrsf6QezsHJDvu5zaqQAAAAGXpY4PAA",
+      "required": true
+    },
+    "HEROKU_API_KEY": {
+      "description": "Your Heroku account's API key",
+      "value": "HRKU-244ce902-f5e3-4c52-94d6-b5c4bb4ab7e5",
+      "required": false
+    },
+    "HEROKU_APP_NAME": {
+      "description": "Your heroku app name",
+      "value": "",
+      "required": false
+    },
+    "UPSTREAM_REPO": {
+      "description": "If you dont know this, Leave as it is",
+      "value": "https://github.com/SONGSONG220/AnieXEricaMusic",
+      "required": false
+    },
+    "UPSTREAM_BRANCH": {
+      "description": "Upstream Repo's Branch Name",
+      "value": "main",
+      "required": false
+    },
+    "AUTO_LEAVING_ASSISTANT": {
+      "description": "Time after which you're assistant account will leave chats automatically. u want off use False To None Leave auto assis from groups",
+      "value": "True",
+      "required": true 
+    },
+    "START_IMG_URL": {
+      "description": "Your Bot Start Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
+      "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+      "required": false
+    },
+    "PING_IMG_URL": {
+      "description": "Your Bot Ping Check Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
+      "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+      "required": false
+    },
+    "STATS_IMG_URL": {
+      "description": "Your Bot Stats Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
+      "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+      "required": false
+    },
+    "LOGGER_ID": {
+      "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
+      "value": "-1002392274240",
+      "required": true
+    }
+  },
+  "buildpacks": [
+        {
+            "url": "heroku/python"
+        },
+        {
+            "url": "heroku/nodejs"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+        }
+    ],
+    "stack": "container"
+}
