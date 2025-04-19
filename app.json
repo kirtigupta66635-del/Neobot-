@@ -1,5 +1,3 @@
-
-
 {
   "name": "ᴀɴɪᴇ x ᴇɪᴄᴀ ᴍᴜꜱɪᴄ ʙᴏᴛ",
   "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
@@ -16,47 +14,47 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "22317880",
+      "value": "29308061",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "5e341628f7176989bcffb2b8fc22445f",
+      "value": "462de3dfc98fd938ef9c6ee31a72d099",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "A Bot's token from Botfather",
-      "value": "7913305235:AAG_ee32FXN5yqwAH74zcUdq-XUnefGP_H4",
+      "value": "7937199110:AAHpT7xYewYZ0D7So8I60Qrd3_Bjx1eadc4",
       "required": true
     },
     "MONGO_DB_URI": {
       "description": "Get a mongodb url from https://cloud.mongodb.com.",
-      "value": "mongodb+srv://musicbotxd:musicbotxd@cluster0.6thyk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+      "value": "mongodb+srv://alyabots636:6dvpdXmakQrZSnJ0@vampireking.qqfnpan.mongodb.net/?retryWrites=true&w=majority&appName=VAMPIREKING",
       "required": true
     },
     "OWNER_ID": {
       "description": "The user id of user whom you would like to add as OWNER.from @Sophia_x_MusicBot on Telegram.",
-      "value": "6018803920",
+      "value": "7800109360",
       "required": true
     },
    "SUPPORT_CHANNEL": {
       "description": "Add channel link",
-      "value": "https://t.me/MBT_UPDATES",
+      "value": "https://t.me/DPZ_WORLD_OP",
       "required": true
     },
       "SUPPORT_CHAT": {
       "description": "Add Chat group & support group Link",
-      "value": "https://t.me/+EK-lvu4shmBkNmZl",
+      "value": "https://t.me/DPZ_WORLD_OP",
       "required": true
     },
     "STRING_SESSION": {
       "description": "A Pyrogram String Session from @Sessoin_String_gen_BOT on Telegram.",
-      "value": "BAFUizgAC0CS3g8afPxNuJ5piWUx02kh_gxZkiEbUCsUsEhzOFOTW4QBYyR6CXnVrODf7WGnGRVT1lizhk4rzhyU5yp950DDhvbqLHosQDIDD8zPJ3hwsfC3Fn2LJ9hBaNtoGCn-heoi9CB-3sgqCUjAZ81M8EviClyy6TV-NRPM6QcdwVlzu2x6O-wmHxNhMAbwaApJxnoVlpIoKEq6vzKWW1-Nr1KeVtivV5gtglIRMjGkd-pkYbsMBHhppFWiAuBEtWvjVqzIZO4RX-2bhm1oG5KYdKDhZQujDRn5Ki0xu5Q1jMW8znESnQhZACMCrHo0OX5dZQqxyl16-VRBLivIGIob5gAAAAGXpY4PAA",
+      "value": "BQGGMSsAYW_TiXcc9Yd7T_23dc6aS2FD8NVfL9N90wtQHkMRElEr3tZDVhUyjUOTdhG_W2LD2sbNBe7dCmzEfBcnMP_YDcNcsVplFT0cjv7Ukph8qbVfD50HC6RgJ_O4Z8fa_XXeBL3VkdO5Vp4pSwjdPKSWmN0Hwi7o4LimFdgBKzk4ac06fA46NZn6ekP5fLR6DoS35b8TzEvzsf9DAZjjzIIITYXthkPsy54dvj-ZOa8CyWKOo7szP6-bQ-RkEhTaYYkMbj9zj7n1oDoBTazo4OsRfVE24NK6Ngib2OJv4dvjXsnBE9uoYytkeZaQ7lUH7otcGvZ_Z_koIbabXWRu2sEozQAAAAHV7lwgAA",
       "required": true
     },
     "HEROKU_API_KEY": {
       "description": "Your Heroku account's API key",
-      "value": "HRKU-244ce902-f5e3-4c52-94d6-b5c4bb4ab7e5",
+      "value": "HRKU-7bb233ff-bef9-4ef8-85d9-46df858d1d23",
       "required": false
     },
     "HEROKU_APP_NAME": {
@@ -66,7 +64,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/SONGSONG220/AnieXEricaMusic",
+      "value": "https://github.com/MR-KILLER-OP/KILLER-OP-MUSIC",
       "required": false
     },
     "UPSTREAM_BRANCH": {
@@ -96,7 +94,7 @@
     },
     "LOGGER_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-      "value": "-1002392274240",
+      "value": "-1002646860241",
       "required": true
     }
   },
