@@ -28,7 +28,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY","HRKU-7bb233ff-bef9-4ef8-85d9-46df858d1
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/MR-KILLER-OP/KILLER-OP-MUSIC",
+    "https://github.com/mrsarkar37/SARKARFLIPKARTMUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = "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"
