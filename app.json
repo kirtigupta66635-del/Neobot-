@@ -24,7 +24,7 @@
     },
     "BOT_TOKEN": {
       "description": "A Bot's token from Botfather",
-      "value": 8075502430:AAEcixU0T8WG-NtZTfsLJjeDkNeUVAJfXoQ",
+      "value": "7753841640:AAFjOFFPHVkLz10ErA5yEOpipd9WS3jUsUs",
       "required": true
     },
     "MONGO_DB_URI": {
@@ -34,22 +34,22 @@
     },
     "OWNER_ID": {
       "description": "The user id of user whom you would like to add as OWNER.from @Sophia_x_MusicBot on Telegram.",
-      "value": "8174329380",
+      "value": "8148129099",
       "required": true
     },
    "SUPPORT_CHANNEL": {
       "description": "Add channel link",
-      "value": "https://t.me/DPZ_WORLD_OP",
+      "value": "https://t.me/lLVY_UPDATE",
       "required": true
     },
       "SUPPORT_CHAT": {
       "description": "Add Chat group & support group Link",
-      "value": "https://t.me/DPZ_WORLD_OP",
+      "value": "https://t.me/lLVY_UPDATE",
       "required": true
     },
     "STRING_SESSION": {
       "description": "A Pyrogram String Session from @Sessoin_String_gen_BOT on Telegram.",
-      "value": "BQExqCAAnuUaGo528FVSuZRr5pp8smkP_kyp9P1xfi_jerVTyFKibmVRyEZg6HStlqsmizbdSjMcKiiHlm-r3jpC0_2V306v27_iaL6mAYE9GzHVMQFoxYZBEmseEjen07ALz4GQatXyyWPaTlF1M_XApcPEqtINcjLBmnngKdQ6JfbRTyZ3gfXaOlu_cAbYvi8pLjbq1uy2uLYWz-YgXY-RJGJlMBTxI9iXCkQoPZ3PImmzMt6MGrbhPn92jrjwr4VJsPcp9kiUuB9piWhmfX5w1pxppzoouBozw2LzQ9eytONvNOItL-wKpOOMZxTVj7EvK9uEH2vnB-FkrS0eH15vdtdCcQAAAAHV7lwgAA",
+      "value": "1BZWaqwUAUH4YDiWnh0KurJHUYQ91IiB80aySvCYvQIO7q4_L05u7sBlTGOOAnXPecEL6RJCxrBc1vf2HJeuR1z1m0DOuxGSDH5Y3otVn0-_eQxhd3cXGlhy2ckZgBCsiIAT_wQyIoMmLrwdKqg49om6zPI58qlwfqwoOKImxeRabhhm1ka3Y3z2zVvn6hVgPwGkJGELRlKEI7BGIP3dzRUMPfZOs6XBJjRN7P-1sX_BgbCb1ze6yYMJawM13im5PKPHiZKYZ2Ib5yFOtxd8uitXSvxh8RCaxI39TuAOpqUS_ekUpw8zVfkegfV_7hdl1PH-DijNWMMX2HLgecJDJfr0zD4nYYSA=",
       "required": true
     },
     "HEROKU_API_KEY": {
@@ -79,22 +79,22 @@
     },
     "START_IMG_URL": {
       "description": "Your Bot Start Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-      "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+      "value": "https://files.catbox.moe/1pfgzq.jpg",
       "required": false
     },
     "PING_IMG_URL": {
       "description": "Your Bot Ping Check Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-      "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+      "value": "https://files.catbox.moe/1pfgzq.jpg",
       "required": false
     },
     "STATS_IMG_URL": {
       "description": "Your Bot Stats Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-      "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+      "value": "https://files.catbox.moe/1pfgzq.jpg",
       "required": false
     },
     "LOGGER_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-      "value": "-1002649788111",
+      "value": "-1002657795861",
       "required": true
     }
   },
