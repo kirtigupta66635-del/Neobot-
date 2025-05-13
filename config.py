@@ -10,15 +10,15 @@ load_dotenv()
 API_ID = int(getenv("API_ID", "29308061"))
 API_HASH = getenv("API_HASH", "462de3dfc98fd938ef9c6ee31a72d099")
 BOT_PRIVACY = getenv("BOT_PRIVACY", "https://telegra.ph/Privacy-Policy-for-AnieXEricaMusic-10-06")
-BOT_TOKEN = getenv("BOT_TOKEN", "7937199110:AAHpT7xYewYZ0D7So8I60Qrd3_Bjx1eadc4")
+BOT_TOKEN = getenv("BOT_TOKEN", "7753841640:AAFjOFFPHVkLz10ErA5yEOpipd9WS3jUsUs")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://alyabots636:6dvpdXmakQrZSnJ0@vampireking.qqfnpan.mongodb.net/?retryWrites=true&w=majority&appName=VAMPIREKING")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 600))
 
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID",-100264978111))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID",-1002657795861))
 
-OWNER_ID = int(getenv("OWNER_ID", 8174329380))
+OWNER_ID = int(getenv("OWNER_ID", 8148129099))
 
 OWNER = int(getenv("OWNER", 8084276864))
 
@@ -32,8 +32,8 @@ UPSTREAM_REPO = getenv(
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = "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"
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/DPZ_WORLD_OP")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/DPZ_WORLD_OP")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/lLVY_UPDATE")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/lLVY_UPDATE")
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "2a230af10e0a40638dc77c1febb47170")
 SPOTIFY_CLIENT_SECRET = '7f92897a59464ddbbf00f06cd6bda7fc'
