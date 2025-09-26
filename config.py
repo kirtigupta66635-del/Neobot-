@@ -31,7 +31,7 @@ UPSTREAM_REPO = getenv(
     "https://github.com/vampirekingop07/VAMPIREFLIPKARTMUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
-GIT_TOKEN = "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"
+GIT_TOKEN = "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"
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/llVAMPIRE_UPDATEll")
 SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/llVAMPIRE_UPDATEll")
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
