@@ -24,37 +24,37 @@
     },
     "BOT_TOKEN": {
       "description": "A Bot's token from Botfather",
-      "value": "7753841640:AAFjOFFPHVkLz10ErA5yEOpipd9WS3jUsUs",
+      "value": "7959513360:AAE9H03DtBa8Mrbs9H9XLNDFB_s8XjibaHs",
       "required": true
     },
     "MONGO_DB_URI": {
       "description": "Get a mongodb url from https://cloud.mongodb.com.",
-      "value": "mongodb+srv://alyabots636:6dvpdXmakQrZSnJ0@vampireking.qqfnpan.mongodb.net/?retryWrites=true&w=majority&appName=VAMPIREKING",
+      "value": "mongodb+srv://h17589479_db_user:df2yZbOWtA7HD4Yk@cluster0.tkxlnpf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
       "required": true
     },
     "OWNER_ID": {
       "description": "The user id of user whom you would like to add as OWNER.from @Sophia_x_MusicBot on Telegram.",
-      "value": "8148129099",
+      "value": "8410426172",
       "required": true
     },
    "SUPPORT_CHANNEL": {
       "description": "Add channel link",
-      "value": "https://t.me/lLVY_UPDATE",
+      "value": "https://t.me/llVAMPIRE_UPDATEll",
       "required": true
     },
       "SUPPORT_CHAT": {
       "description": "Add Chat group & support group Link",
-      "value": "https://t.me/lLVY_UPDATE",
+      "value": "https://t.me/llVAMPIRE_UPDATEll",
       "required": true
     },
     "STRING_SESSION": {
       "description": "A Pyrogram String Session from @Sessoin_String_gen_BOT on Telegram.",
-      "value": "1BZWaqwUAUH4YDiWnh0KurJHUYQ91IiB80aySvCYvQIO7q4_L05u7sBlTGOOAnXPecEL6RJCxrBc1vf2HJeuR1z1m0DOuxGSDH5Y3otVn0-_eQxhd3cXGlhy2ckZgBCsiIAT_wQyIoMmLrwdKqg49om6zPI58qlwfqwoOKImxeRabhhm1ka3Y3z2zVvn6hVgPwGkJGELRlKEI7BGIP3dzRUMPfZOs6XBJjRN7P-1sX_BgbCb1ze6yYMJawM13im5PKPHiZKYZ2Ib5yFOtxd8uitXSvxh8RCaxI39TuAOpqUS_ekUpw8zVfkegfV_7hdl1PH-DijNWMMX2HLgecJDJfr0zD4nYYSA=",
+      "value": "BQCMd7sAUyS8TU__bNfG-ukzZa_TLqttrBYU-kVpSqfbflFs-IaEnrhYIx_tll_-TTHfUVBo24xiBbPvXV4rp0wr1cukUTC-MkLOanbOlCN7WuKbXNsOVLqoouMTae7QVIQprhUVEyJdAk-dc2mTu2okxoypX5R7UWjHyiLkGnbyNEbygjlcHhZcOAwRaHtlbc6jtOXyn9e374AYuN4iqRQAp0-zTJXDLhu_DjeZqL3OniFTPYSeqXpcPJsmQcN2xuVM7v-DC-LPEswQXg5COwfhpipYGIq87QUQqU1kmndwKrwlFjQrbPAsceJMtgk9X7bcqLq_tsJCFBNpsCWbV1r9KjKmugAAAAHlB_nMAA",
       "required": true
     },
     "HEROKU_API_KEY": {
       "description": "Your Heroku account's API key",
-      "value": "HRKU-7bb233ff-bef9-4ef8-85d9-46df858d1d23",
+      "value": "HRKU-AAC-IRkPcu7dxXBXyYINt4D6-K0yThQkytnKsoGulhvg_____wJzXQYI1Ay1",
       "required": false
     },
     "HEROKU_APP_NAME": {
@@ -64,7 +64,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/mrsarkar37/SARKARFLIPKARTMUSIC",
+      "value": "https://github.com/vampirekingop07/VAMPIREFLIPKARTMUSIC",
       "required": false
     },
     "UPSTREAM_BRANCH": {
@@ -94,7 +94,7 @@
     },
     "LOGGER_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-      "value": "-1002657795861",
+      "value": "-1003070925721",
       "required": true
     }
   },
