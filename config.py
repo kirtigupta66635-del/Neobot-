@@ -10,30 +10,30 @@ load_dotenv()
 API_ID = int(getenv("API_ID", "29308061"))
 API_HASH = getenv("API_HASH", "462de3dfc98fd938ef9c6ee31a72d099")
 BOT_PRIVACY = getenv("BOT_PRIVACY", "https://telegra.ph/Privacy-Policy-for-AnieXEricaMusic-10-06")
-BOT_TOKEN = getenv("BOT_TOKEN", "7753841640:AAFjOFFPHVkLz10ErA5yEOpipd9WS3jUsUs")
+BOT_TOKEN = getenv("BOT_TOKEN", "7959513360:AAE9H03DtBa8Mrbs9H9XLNDFB_s8XjibaHs")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://alyabots636:6dvpdXmakQrZSnJ0@vampireking.qqfnpan.mongodb.net/?retryWrites=true&w=majority&appName=VAMPIREKING")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 600))
 
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID",-1002657795861))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID",-1003070925721))
 
-OWNER_ID = int(getenv("OWNER_ID", 8148129099))
+OWNER_ID = int(getenv("OWNER_ID", 8410426172))
 
-OWNER = int(getenv("OWNER", 8084276864))
+OWNER = int(getenv("OWNER", 8410426172))
 
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
-HEROKU_API_KEY = getenv("HEROKU_API_KEY","HRKU-7bb233ff-bef9-4ef8-85d9-46df858d1d23")
+HEROKU_API_KEY = getenv("HEROKU_API_KEY","HRKU-AAC-IRkPcu7dxXBXyYINt4D6-K0yThQkytnKsoGulhvg_____wJzXQYI1Ay1")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/mrsarkar37/SARKARFLIPKARTMUSIC",
+    "https://github.com/vampirekingop07/VAMPIREFLIPKARTMUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = "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"
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/lLVY_UPDATE")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/lLVY_UPDATE")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/llVAMPIRE_UPDATEll")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/llVAMPIRE_UPDATEll")
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "2a230af10e0a40638dc77c1febb47170")
 SPOTIFY_CLIENT_SECRET = '7f92897a59464ddbbf00f06cd6bda7fc'
@@ -41,7 +41,7 @@ PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", 25))
 TG_AUDIO_FILESIZE_LIMIT = int(getenv("TG_AUDIO_FILESIZE_LIMIT", 5242880000))
 TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 5242880000))
 
-STRING1 = getenv("STRING_SESSION","BQExqCAAnuUaGo528FVSuZRr5pp8smkP_kyp9P1xfi_jerVTyFKibmVRyEZg6HStlqsmizbdSjMcKiiHlm-r3jpC0_2V306v27_iaL6mAYE9GzHVMQFoxYZBEmseEjen07ALz4GQatXyyWPaTlF1M_XApcPEqtINcjLBmnngKdQ6JfbRTyZ3gfXaOlu_cAbYvi8pLjbq1uy2uLYWz-YgXY-RJGJlMBTxI9iXCkQoPZ3PImmzMt6MGrbhPn92jrjwr4VJsPcp9kiUuB9piWhmfX5w1pxppzoouBozw2LzQ9eytONvNOItL-wKpOOMZxTVj7EvK9uEH2vnB-FkrS0eH15vdtdCcQAAAAHV7lwgAA")
+STRING1 = getenv("STRING_SESSION","BQCMd7sAUyS8TU__bNfG-ukzZa_TLqttrBYU-kVpSqfbflFs-IaEnrhYIx_tll_-TTHfUVBo24xiBbPvXV4rp0wr1cukUTC-MkLOanbOlCN7WuKbXNsOVLqoouMTae7QVIQprhUVEyJdAk-dc2mTu2okxoypX5R7UWjHyiLkGnbyNEbygjlcHhZcOAwRaHtlbc6jtOXyn9e374AYuN4iqRQAp0-zTJXDLhu_DjeZqL3OniFTPYSeqXpcPJsmQcN2xuVM7v-DC-LPEswQXg5COwfhpipYGIq87QUQqU1kmndwKrwlFjQrbPAsceJMtgk9X7bcqLq_tsJCFBNpsCWbV1r9KjKmugAAAAHlB_nMAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
