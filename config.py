@@ -28,12 +28,12 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY","HRKU-AAC-IRkPcu7dxXBXyYINt4D6-K0yThQky
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/vampirekingop07/VAMPIREFLIPKARTMUSIC",
+    "https://github.com/kirtigupta66635-del/Neobot-.git",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = "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"
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/llVAMPIRE_UPDATEll")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/llVAMPIRE_UPDATEll")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/promoters_botse")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/promoters_botse")
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "2a230af10e0a40638dc77c1febb47170")
 SPOTIFY_CLIENT_SECRET = '7f92897a59464ddbbf00f06cd6bda7fc'
